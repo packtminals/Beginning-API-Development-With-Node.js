@@ -11,3 +11,16 @@ By the end of the book, you’ll have the skills and exposure required to get ha
 
 ## What you will learn
 * Understand how Node.js works, its trends, and where it is being used now
+* Learn about application modularization and built-in Node.js modules
+* Use the npm third-party module registry to extend your application
+* Gain an understanding of asynchronous programming with Node.js
+* Develop scalable and high-performing APIs using hapi.js and Knex.js
+* Write unit tests for your APIs to ensure reliability and maintainability
+
+## Who this book is for
+This book is ideal for developers who already understand JavaScript and are looking for a quick no-frills introduction to API development with Node.js. Though prior experience with other server-side technologies such as Python, PHP, ASP.NET, Ruby will help, it’s not essential to have a background in backend development before getting started.
+
+## Table of Contents
+Introduction to Node.js
+Building the API – Part 1
+Building the API – Part 2
